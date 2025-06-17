@@ -4,7 +4,7 @@ An interactive Power BI dashboard that visualizes the **distribution of bank bra
 
 ![image](https://github.com/user-attachments/assets/debaca6a-dfd7-4846-ac39-5c279605bcfe)
 
-
+👉 [Click here to view the video](https://www.linkedin.com/posts/lutfor-rahman-sohan_powerbi-dataanalytics-bangladeshbank-activity-7340392989275414528-pZhF/)
 ---
 
 ## 📌 Project Overview
